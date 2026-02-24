@@ -1,7 +1,6 @@
 k = int(input())
 r = []
 t = []
-
 for i in range(k):
     h, a = map(int, input().split())
     r += [h]
